@@ -1,9 +1,11 @@
 ---
-Fecha de creación: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-Fecha de Modificación: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-tags: 
-Tema:
+id: {{title}}
+aliases: []
+tags: []
+date-created: {{date}}
+last-modified: {{last_modified}}
 ---
+
 
 
 ## 📚 Idea/Concepto 
