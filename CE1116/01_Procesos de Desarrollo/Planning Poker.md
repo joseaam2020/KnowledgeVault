@@ -1,22 +1,25 @@
 ---
-id: Pruebas Unitarias
+id: Planning Poker
 aliases: []
 tags: []
+date-created: "2025-08-13"
+last-modified: "2025-08-13"
 ---
 
 
+
 ## 📚 Idea/Concepto 
-Las pruebas unitarias se utilizan para comprobar el funcionamiento de partes individuales y pequeñas
-del software.
+Es una tecnica para decidir el esfuerzo que va a tomar hacer una tarea del proyecto.
 
 
 ## 📌 Puntos Claves (Opcional)
 - 
 
 ## 🔗 Connections
-- [[Estándares de Programación]]
+- [[Sprint Planning]]
 
 ## 💡 Personal Insight (Opcional)
 - 
 ## 🧾 Recursos (Opcional)
 - 
+
